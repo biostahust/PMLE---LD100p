@@ -1,4 +1,4 @@
-# PMLE_LD100p
+# PMLELD100p
 This repository contains R functions to implement PMLE: a point estimation method of the 100p percent lethal dose using a novel penalised likelihood approach.
 
 - Main function: PMLE.R.
