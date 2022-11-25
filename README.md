@@ -10,8 +10,8 @@ R code for a point estimation method of the 100p percent lethal dose using a nov
     n: the number of subjects for each dose level
     s: the number of deaths(responses) for each dose level.
 
-3. Example dataset: Beetles Data.txt and Hewlett Data.txt
-    This dataset has three columns. The first column is the log-transformed dose level, the second column is the number of subjects for each dose level, 
+3. Example dataset: Beetles Data.txt and Hewlett Data.txt。
+    Th dataset has three columns. The first column is the log-transformed dose level, the second column is the number of subjects for each dose level, 
     and the last column is the number of responses for each dose level.
 
 4. Example code
