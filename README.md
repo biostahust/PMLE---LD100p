@@ -18,10 +18,9 @@ R code for a point estimation method of the 100p percent lethal dose using a nov
 
  ## Read the Beetles data
     Beetles <- read.table("./Beetles Data.txt",header=T)
-
-   x <- Beetles$x
-   n <- Beetles$m
-   s <- Beetles$s
+    x <- Beetles$x
+    n <- Beetles$m
+    s <- Beetles$s
 
 ## Calculate the PMLE for LD50
    PMLE(x=x, n=n, s=s, prob=0.5)
