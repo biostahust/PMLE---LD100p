@@ -1,6 +1,5 @@
 # PMLE_LD100p
 This repository contains R functions to implement PMLE: a point estimation method of the 100p percent lethal dose using a novel penalised likelihood approach.
-For any issues or technical questions relating to the implementation, please contact Yilei Ma at mylstatistics@163.com
 
 - Main function: PMLE.R.
     This function is used to calculate the penalized maximum likelihood estimate for the LD100p.
@@ -13,6 +12,8 @@ For any issues or technical questions relating to the implementation, please con
 - Example dataset: Beetles Data.txt and Hewlett Data.txt.
     The dataset has three columns. The first column is the log-transformed dose level, the second column is the number of subjects for each dose level, 
     and the last column is the number of responses for each dose level.
+
+For any issues or technical questions relating to the implementation, please contact Yilei Ma at mylstatistics@163.com
 
  ## Example code
 
