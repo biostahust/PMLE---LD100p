@@ -9,8 +9,8 @@ This repository contains R functions to implement PMLE: a point estimation metho
     n: the number of subjects for each dose level
     s: the number of deaths(responses) for each dose level.
 
-- Example dataset: Beetles Data.txt and Hewlett Data.txt。
-    Th dataset has three columns. The first column is the log-transformed dose level, the second column is the number of subjects for each dose level, 
+- Example dataset: Beetles Data.txt and Hewlett Data.txt.
+    The dataset has three columns. The first column is the log-transformed dose level, the second column is the number of subjects for each dose level, 
     and the last column is the number of responses for each dose level.
 
 - Example code
